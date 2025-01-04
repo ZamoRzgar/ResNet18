@@ -1,0 +1,7 @@
+1. torch 2.5.1 + cu118          # Tensors and Dynamic neural networks in Python with strong GPU acceleration
+2. torchvision 0.20.1 + cu118   # image and video datasets and models for torch deep learning
+3. matplotlib 3.9.2             # Python plotting package
+4. pillow 11.0.0                # Python Imaging Library (Fork)
+5. numPy 1.26.4                 # Fundamental package for array computing in Python and numerical operations
+
+# Make sure to install CUDA with it cu118
